@@ -1,0 +1,37 @@
+/*  FORM VALIDATION MINI PROJECT (CSS CODE)*/
+body {
+    margin-top: 30px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.innercon #alert {
+    width: 90%;
+    margin-left: 25px;
+    line-height: 10px;
+}
+
+.container {
+    width: 500px;
+    height: 895px;
+    border: 5px solid black;
+    background-color: #ff0051c7;
+}
+
+
+label {
+    font-weight: 550;
+    font-size: large;
+}
+
+.form--control {
+    margin-left: 25px;
+}
+
+#adjust {
+    padding-top: 50px;
+    padding-left: 150px;
+}
